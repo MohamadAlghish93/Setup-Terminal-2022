@@ -27,3 +27,6 @@ bellow most setups terminal I did it
 
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
+
+
+## Write by [stackedit](https://stackedit.io)
