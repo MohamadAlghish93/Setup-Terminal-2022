@@ -25,6 +25,11 @@ bellow most setups terminal I did it
 [Tree-cli on Github](https://github.com/MrRaindrop/tree-cli)
 > **Tree-cli** is a recursive directory listing program that produces a depth indented listing of files. With no arguments, tree lists the files in the current directory. When directory arguments are given, tree lists all the files and/or directories found in the given directories each in turn. Upon completion of listing all files/directories found, tree returns the total number of files and/or directories listed.
 
+## 6- nnn (File Manager)
+[nnn](https://github.com/jarun/nnn)
+> nnn (n³) is a full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast.
+
+
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
 
