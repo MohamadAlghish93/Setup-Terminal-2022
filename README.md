@@ -29,6 +29,9 @@ bellow most setups terminal I did it
 [nnn](https://github.com/jarun/nnn)
 > nnn (n³) is a full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast.
 
+## 7- Oh My Zsh
+[Oh My Zsh](https://www.josean.com/posts/terminal-setup)
+> How To Setup Your Mac Terminal using iTerm2
 
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
