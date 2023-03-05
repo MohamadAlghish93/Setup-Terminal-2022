@@ -33,6 +33,10 @@ bellow most setups terminal I did it
 [Oh My Zsh](https://www.josean.com/posts/terminal-setup)
 > How To Setup Your Mac Terminal using iTerm2
 
+## 8- ncdu (disk usage)
+[How to install ncdu on Linux / Unix to see disk usage](https://www.cyberciti.biz/open-source/install-ncdu-on-linux-unix-ncurses-disk-usage/)
+> (disk usage) command summarizes directory trees’ sizes
+
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
 
