@@ -1,4 +1,4 @@
-# My Setup Terminal 2022
+# My Setup Terminal 2023
 
 I love using the terminal same as most of the developers for that every time I change my operating system, for that, I need to configure my terminal.
 
@@ -36,6 +36,10 @@ bellow most setups terminal I did it
 ## 8- ncdu (disk usage)
 [How to install ncdu on Linux / Unix to see disk usage](https://www.cyberciti.biz/open-source/install-ncdu-on-linux-unix-ncurses-disk-usage/)
 > (disk usage) command summarizes directory trees’ sizes
+
+## 9- bat (alternative cat)
+[bat](https://github.com/sharkdp/bat)
+>  A cat(1) clone with syntax highlighting and Git integration.
 
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
