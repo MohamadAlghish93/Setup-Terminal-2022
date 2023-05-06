@@ -41,6 +41,10 @@ bellow most setups terminal I did it
 [bat](https://github.com/sharkdp/bat)
 >  A cat(1) clone with syntax highlighting and Git integration.
 
+## 10- Nushell (nu command)
+[Nushell](https://github.com/nushell/nushell)
+>  Nu's design is subject to change as it matures.
+
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
 
