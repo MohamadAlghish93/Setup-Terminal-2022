@@ -45,6 +45,10 @@ bellow most setups terminal I did it
 [Nushell](https://github.com/nushell/nushell)
 >  Nu's design is subject to change as it matures.
 
+## 11- CLI Json processor
+[Json terminal](https://jqlang.github.io/jq/)
+> lightweight and flexible command-line JSON processor.
+
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
 
