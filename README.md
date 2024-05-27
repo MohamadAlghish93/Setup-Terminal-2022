@@ -49,6 +49,10 @@ bellow most setups terminal I did it
 [Json terminal](https://jqlang.github.io/jq/)
 > lightweight and flexible command-line JSON processor.
 
+## 12- fuzzy finder
+[fzf](https://github.com/junegunn/fzf)
+> fzf is a general-purpose command-line fuzzy finder.
+
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
 
