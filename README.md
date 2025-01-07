@@ -1,4 +1,4 @@
-# My Setup Terminal 2023
+# My Setup Terminal 2023-2024-2025
 
 I love using the terminal same as most of the developers for that every time I change my operating system, for that, I need to configure my terminal.
 
@@ -52,6 +52,10 @@ bellow most setups terminal I did it
 ## 12- fuzzy finder
 [fzf](https://github.com/junegunn/fzf)
 > fzf is a general-purpose command-line fuzzy finder.
+
+## 13- lazygit
+[lazygit](https://github.com/jesseduffield/lazygit)
+> simple terminal UI for git commands.
 
 # Summary
 All of us as Developer has special setup for his terminal  : ) 
